@@ -1,6 +1,6 @@
 - @Xikuro, here
 - No idea what I'm doing, happy to be here though
-- Learning Javascript... or at least trying to
+- Learning HTML/CSS... or at least trying to
 - Willing to learn/collaborate
 - Discord: Xikuno#3538
 
